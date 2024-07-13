@@ -1,6 +1,6 @@
 <h1 align=center> IP location tracker </h1>
 
-![tool](/ip_tracker/tool.png)
+![tool](/tool.png)
 
 # Disclaimer
 * This tool was created for educational purposes only!
