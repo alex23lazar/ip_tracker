@@ -25,7 +25,7 @@
 
   ## Download
 
-  * How to download  `https://github.com/alex23lazar/ip_tracker.git`
+  * How to download  `git clone https://github.com/alex23lazar/ip_tracker.git`
 
   ## Installation
 
